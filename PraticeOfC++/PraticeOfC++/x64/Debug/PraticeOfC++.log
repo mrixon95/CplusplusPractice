@@ -1,0 +1,2 @@
+﻿ReadInput.obj : error LNK2005: main already defined in PraticeOfC++.obj
+D:\Files\C++\PraticeOfC++\x64\Debug\PraticeOfC++.exe : fatal error LNK1169: one or more multiply defined symbols found
