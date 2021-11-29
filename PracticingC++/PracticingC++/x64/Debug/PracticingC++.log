@@ -1,3 +1,2 @@
-﻿  PseudoRandom.cpp
-D:\Files\C++\PracticingC++\PracticingC++\PseudoRandom.cpp(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿  OOP.cpp
   PracticingC++.vcxproj -> D:\Files\C++\PracticingC++\x64\Debug\PracticingC++.exe

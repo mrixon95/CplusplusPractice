@@ -139,14 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2DArrays.cpp" />
     <ClCompile Include="Arithmetic.cpp" />
     <ClCompile Include="Arrays.cpp" />
     <ClCompile Include="for.cpp" />
     <ClCompile Include="Functions.cpp" />
     <ClCompile Include="IfStatements.cpp" />
+    <ClCompile Include="Keyboard.cpp" />
     <ClCompile Include="LogicalOperators.cpp" />
     <ClCompile Include="MemoryAddressAndReferences.cpp" />
     <ClCompile Include="NestedLoop.cpp" />
+    <ClCompile Include="OOP.cpp" />
     <ClCompile Include="Overloading.cpp" />
     <ClCompile Include="Pointer.cpp" />
     <ClCompile Include="Pointers.cpp" />

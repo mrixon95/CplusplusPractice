@@ -72,5 +72,14 @@
     <ClCompile Include="Pointers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2DArrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OOP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

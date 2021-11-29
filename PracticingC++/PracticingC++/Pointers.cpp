@@ -7,18 +7,22 @@ using namespace std;
 #include <algorithm>
 
 
-
+/*
 int main()
 {
     // & is a reference or address of operator
     // * is a dereference operator
-    // 
+    // pointer stores the address of another variable
 
     string name = "Bro";
     int age = 100;
-    cout << &name << endl;
-    cout << &age << endl;
+    string* pName = &name;
+    int* pAge = &age;
+
+    cout << pName << endl;
+    cout << pAge << endl;
 
 
     return 0;
 }
+*/
